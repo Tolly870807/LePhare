@@ -1,0 +1,177 @@
+/* nai plus*/
+.popnav1 li img, .popnav2 li img{
+	padding: 7%;
+    width: 100%;
+	max-width: 370px;
+}
+/******/
+
+ul,li{list-style:none;}
+.bg {
+    background-color: #ffffff;
+    margin:auto;
+    width:100%;
+  }
+
+.LOGO{
+   justify-self: flex-start;
+}
+
+.header{
+  height:200px;
+  display:flex;
+  justify-content:space-between;
+}
+.nav-list{
+    width:800px;
+    display:flex;
+    justify-content:space-between;
+    padding-top:2.5%;
+    padding-right:50px;
+}
+}
+.nav-list-item:hover{
+  opacity:50%;
+}
+
+.nav-list-item1:hover{
+  opacity:50%;
+}
+
+.navhover:hover{
+  opacity:50%;
+}
+
+.btn_facebook {
+  padding-top:3%;
+  padding-right:20px;
+  }
+
+.btn_facebook:hover{
+        opacity:50%;
+      }
+      
+
+.BGPIC{
+  width:100%;
+  margin:0 auto;
+  margin-top:-3.3%;
+}
+
+.papaya{
+
+}
+
+#carouselExampleIndicators{
+
+}
+
+.popdrink{
+	text-align: center;
+    margin: 8% 0 3%;
+}
+
+.popnav1{
+  display:flex;
+
+}
+
+.popnav2{
+  display:flex;
+
+}
+
+.popnav1-1{
+
+}
+
+.ftbg{
+  background-color:#F8F7F2;
+  width:100%;
+  padding-bottom:2%;
+}
+
+.ftbg-LOGO{
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding-top:2%;
+  
+}
+
+.line_login {
+  height: 1px;
+  width:60%;
+  margin: 0 auto;
+  background-color: #707070;
+  margin-top:1.5%;
+  align-items:center;
+  justify-content:center;
+
+}
+
+.text{
+  font-size:100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  color: #3E3E3E;
+  letter-spacing:120%;
+  margin:center;
+  text-align: center;
+  padding-top:1%;
+
+}
+
+.menu{
+  display:flex;
+  justify-content: center;
+  align-content:center;
+  padding-bottom:25%;
+  padding-left:5%;
+  padding-right:5%;
+}
+
+.intro{
+  width:100%;
+  margin:0 auto;
+  margin-top:-3.3%;
+}
+
+.introtext{
+  font-size:18px;
+  font-family: 'Microsoft JhengHei';
+  font-weight: 600;
+  color: #3E3E3E;
+  letter-spacing:5px;
+  line-height: 48px;
+  margin:0 auto;
+  text-align: center;
+  padding-top:10%;
+  padding-bottom:6%;
+}
+.container{
+  width: 68%;
+  margin:0 auto;
+  padding-top:5%;
+  padding-bottom:40%;
+  padding-left:10%;
+  padding-right:5%;
+  
+}
+
+.work{
+  font-family: 'Microsoft JhengHei';
+  color: #3E3E3E;
+  letter-spacing:2px;
+  font-weight: 600;
+  float:left;
+  width: 48%;
+  margin-bottom: 5%;
+  margin-right: 2%;
+  
+}
+
+.ftflex{
+  
+}
